@@ -1,0 +1,8 @@
+# Ignorar bases de dados completas
+*.csv
+*.db
+*.rar
+*.pbix
+
+# Permitir apenas a amostra
+!amostra_dados.csv
